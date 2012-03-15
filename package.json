@@ -1,0 +1,14 @@
+{
+
+  "name": "htmlcov-example",
+  "version": "0.0.1",
+
+  "devDependencies": {
+    "mocha": "~ 0.13.0"
+  },
+
+  "scripts": {
+    "test": "mocha -r should -R spec"
+  }
+
+}
